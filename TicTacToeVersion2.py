@@ -1,6 +1,6 @@
 import random
 
-#FUNCTIN THAT DISPLAYS THE BOARD
+#FUNCTION THAT DISPLAYS THE BOARD
 
 def boardDisplay(b):
     print("  " + b[7] + "| " + b[8] + " |" + b[9] + "  ")
